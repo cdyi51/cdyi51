@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cdyi51
-- 👀 I’m interested in front-end web dev with HTML/CSS and back-end using Python.
-- 🌱 I’m currently learning React JS and Python Flask.
+- 👀 I’m interested in Python and web design!
+- 🌱 I’m currently learning cloud computing and React.
 
 <!---
 cdyi51/cdyi51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
