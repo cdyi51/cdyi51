@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cdyi51
-- 👀 I’m interested in Python and web design!
+- 👀 I’m interested in back end programming and web design!
 - 🌱 I’m currently learning Java and C.
 
 <!---
