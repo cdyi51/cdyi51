@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @cdyi51
-- 👀 I’m interested in back end programming and web design!
-- 🌱 I’m currently learning Java and C.
+- 🌱 I’m currently learning about APIs and cryptography
 
 <!---
 cdyi51/cdyi51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
